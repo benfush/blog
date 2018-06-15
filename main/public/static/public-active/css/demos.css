@@ -1,0 +1,12 @@
+body{background: #48cfad;}
+.weui-panel{padding: 10px;background: none;}
+.zqui_lisy{padding: 10px;background: #fff;padding-bottom: 5px;margin-bottom: 10px;}
+.zqui_lisy_pro{position: relative;font-size: 0;border-radius: 6px;overflow: hidden;}
+.zqui_lisy_pro img{width: 100%;}
+.zqui_lisy_box{width:100%; position: absolute;z-index: 222;left: 0;bottom: 0;background:rgba(0,0,0,0.6);}
+.zqui_lisy_box p{ padding: 10px;word-break: keep-all;font-size: 14px;color: #fff;overflow: hidden;text-overflow: ellipsis; white-space: nowrap;}
+.zqui_span{font-size: 13px;color: #999;padding-top:5px;clear: both;}
+.zqui_span a{float: right;color: #000000;padding-right: 10px;margin-top: -3px;cursor: pointer;}
+.zqui_span a b{font-weight: 400;}
+.zqui_lisy a{cursor: pointer;}
+.zqui_span .active{color: #f6383a;}
